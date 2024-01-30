@@ -6,9 +6,5 @@ Welcome to the Python and SQL Data Exploration repository! This collection house
 
 Explore projects covering data cleaning, exploratory analysis, and advanced analytics using Python and SQL.
 
-## Getting Started
-
-Clone this repository to access a range of projects. Each project directory contains scripts and instructions for seamless execution.
-
 Happy exploring! 🐍🔍📊
 
